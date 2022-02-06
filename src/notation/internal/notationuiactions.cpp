@@ -276,7 +276,7 @@ const UiActionList NotationUiActions::m_actions = {
              ),
     UiAction("notation-delete",
              mu::context::UiCtxNotationOpened,
-             QT_TRANSLATE_NOOP("action", "Delete"),
+             QT_TRANSLATE_NOOP("action", "Clear Measures"),
              QT_TRANSLATE_NOOP("action", "Delete the selected element(s)"),
              IconCode::Code::DELETE_TANK
              ),
@@ -322,7 +322,8 @@ const UiActionList NotationUiActions::m_actions = {
              ),
     UiAction("time-delete",
              mu::context::UiCtxNotationOpened,
-             QT_TRANSLATE_NOOP("action", "Remove selected range")
+             QT_TRANSLATE_NOOP("action", "Delete Measures"),
+             IconCode::Code::DELETE_TANK
              ),
     UiAction("slash-fill",
              mu::context::UiCtxNotationOpened,

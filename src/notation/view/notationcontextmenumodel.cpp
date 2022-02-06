@@ -72,6 +72,7 @@ MenuItemList NotationContextMenuModel::makeDefaultCopyPasteItems()
         makeMenuItem("notation-copy"),
         makeMenuItem("notation-paste"),
         makeMenuItem("notation-swap"),
+        makeMenuItem("time-delete"),
         makeMenuItem("notation-delete"),
     };
 

@@ -165,7 +165,7 @@ have libgstreamer-plugins-base installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1941,7 +1941,7 @@ Vil du slette den allikevel?</translation>
         <translation>&amp;Lim inn</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Slett</translation>
     </message>
 </context>
@@ -3649,7 +3649,7 @@ Please choose a different file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3777,7 +3777,7 @@ Please choose a different file name.</source>
 <context>
     <name>QSql</name>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3913,7 +3913,7 @@ Please choose a different file name.</source>
         <translation>&amp;Lim inn</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Slett</translation>
     </message>
     <message>

@@ -165,7 +165,7 @@ have libgstreamer-plugins-base installed.</source>
         <translation type="unfinished">Ανανέωση</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation type="unfinished">Διαγραφή</translation>
     </message>
 </context>
@@ -1955,7 +1955,7 @@ Do you want to delete it anyway?</source>
         <translation type="unfinished">&amp;Επικόλληση</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation type="unfinished">Διαγραφή</translation>
     </message>
     <message>
@@ -3670,8 +3670,8 @@ Please choose a different file name.</source>
         <translation type="unfinished">Insert</translation>
     </message>
     <message>
-        <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <source>Clear Measures</source>
+        <translation type="unfinished">Clear Measures</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -3798,7 +3798,7 @@ Please choose a different file name.</source>
 <context>
     <name>QSql</name>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation type="unfinished">Διαγραφή</translation>
     </message>
     <message>
@@ -3934,7 +3934,7 @@ Please choose a different file name.</source>
         <translation type="unfinished">&amp;Επικόλληση</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

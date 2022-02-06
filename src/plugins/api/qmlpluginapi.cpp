@@ -222,6 +222,7 @@ void PluginAPI::cmd(const QString& s)
         { "paste-half", "notation-paste-half" },
         { "paste-double", "notation-paste-double" },
         { "select-all", "notation-select-all" },
+        { "delete", "time-delete" },
         { "delete", "notation-delete" },
         { "next-chord", "notation-move-right" },
         { "prev-chord", "notation-move-left" },

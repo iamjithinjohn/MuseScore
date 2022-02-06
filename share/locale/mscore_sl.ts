@@ -4785,7 +4785,7 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../mscore/excerptsdialog.ui" line="187"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -4873,7 +4873,7 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../fluid/fluid_gui.ui" line="135"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -10217,7 +10217,7 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../mscore/layer.ui" line="37"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -13089,7 +13089,7 @@ Ali želite sejo obnoviti?</translation>
     </message>
     <message>
         <location filename="../../mscore/workspace.cpp" line="150"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -13264,7 +13264,7 @@ connection enabled</source>
     </message>
     <message>
         <location filename="../../mscore/palette.cpp" line="278"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -16121,7 +16121,7 @@ je spodletelo: </translation>
     </message>
     <message>
         <location filename="../../mscore/qml/palettes/Palette.qml" line="567"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -16458,7 +16458,7 @@ je spodletelo: </translation>
     </message>
     <message>
         <location filename="../../mscore/pathlistdialog.ui" line="29"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -21619,7 +21619,7 @@ je spodletelo:</translation>
     </message>
     <message>
         <location filename="../../zerberus/zerberus_gui.ui" line="134"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -22871,7 +22871,7 @@ je spodletelo:</translation>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1224"/>
         <location filename="../../mscore/shortcut.cpp" line="1225"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Izbriši</translation>
     </message>
     <message>
@@ -23973,12 +23973,12 @@ je spodletelo:</translation>
     </message>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1244"/>
-        <source>Remove Selected Range</source>
+        <source>Delete Measures</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1245"/>
-        <source>Remove selected range</source>
+        <source>Delete Measures</source>
         <translation type="unfinished"/>
     </message>
     <message>

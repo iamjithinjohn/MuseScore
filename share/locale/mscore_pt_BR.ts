@@ -4786,7 +4786,7 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../mscore/excerptsdialog.ui" line="187"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -4874,7 +4874,7 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../fluid/fluid_gui.ui" line="135"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -10218,7 +10218,7 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../mscore/layer.ui" line="37"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -13120,7 +13120,7 @@ Por favor, corrija os compassos corrompidos e tente novamente.</translation>
     </message>
     <message>
         <location filename="../../mscore/workspace.cpp" line="150"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -13297,7 +13297,7 @@ com a Internet habilitada</translation>
     </message>
     <message>
         <location filename="../../mscore/palette.cpp" line="278"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -16177,7 +16177,7 @@ falhou: </translation>
     </message>
     <message>
         <location filename="../../mscore/qml/palettes/Palette.qml" line="567"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -16514,7 +16514,7 @@ falhou: </translation>
     </message>
     <message>
         <location filename="../../mscore/pathlistdialog.ui" line="29"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -21700,7 +21700,7 @@ falhou: </translation>
     </message>
     <message>
         <location filename="../../zerberus/zerberus_gui.ui" line="134"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -22952,7 +22952,7 @@ falhou: </translation>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1224"/>
         <location filename="../../mscore/shortcut.cpp" line="1225"/>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -24054,12 +24054,12 @@ falhou: </translation>
     </message>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1244"/>
-        <source>Remove Selected Range</source>
+        <source>Delete Measures</source>
         <translation>Remover Região Selecionada</translation>
     </message>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1245"/>
-        <source>Remove selected range</source>
+        <source>Delete Measures</source>
         <translation>Remover região selecionada</translation>
     </message>
     <message>

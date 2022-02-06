@@ -168,7 +168,7 @@ Controleer de installatie van &quot;Gstreamer&quot; en zorg ervoor dat de &quot;
         <translation>Bijwerken</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Verwijderen</translation>
     </message>
 </context>
@@ -1968,7 +1968,7 @@ Wilt u het toch verwijderen?</translation>
         <translation>&amp;Plakken</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Verwijderen</translation>
     </message>
 </context>
@@ -3681,8 +3681,8 @@ Kies een andere bestandsnaam.</translation>
         <translation>Insert</translation>
     </message>
     <message>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -3809,7 +3809,7 @@ Kies een andere bestandsnaam.</translation>
 <context>
     <name>QSql</name>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Verwijderen</translation>
     </message>
     <message>
@@ -3945,7 +3945,7 @@ Kies een andere bestandsnaam.</translation>
         <translation>&amp;Plakken</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Verwijderen</translation>
     </message>
     <message>

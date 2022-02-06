@@ -171,7 +171,7 @@ tenha o pacote libgstreamer-plugins-base instalado.</translation>
         <translation>Atualizar</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
 </context>
@@ -1962,7 +1962,7 @@ Você deseja apagá-lo mesmo assim?</translation>
         <translation>Colar (&amp;P)</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -3675,8 +3675,8 @@ Por favor escolha um nome de arquivo diferente.</translation>
         <translation>Insert</translation>
     </message>
     <message>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -3803,7 +3803,7 @@ Por favor escolha um nome de arquivo diferente.</translation>
 <context>
     <name>QSql</name>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>
@@ -3939,7 +3939,7 @@ Por favor escolha um nome de arquivo diferente.</translation>
         <translation>Colar (&amp;P)</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Apagar</translation>
     </message>
     <message>

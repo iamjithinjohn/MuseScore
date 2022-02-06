@@ -170,7 +170,7 @@ have libgstreamer-plugins-base installed.</source>
         <translation>Обновяване</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Изтриване</translation>
     </message>
 </context>
@@ -1961,7 +1961,7 @@ Do you want to delete it anyway?</source>
         <translation>&amp;Поставяне</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Изтриване</translation>
     </message>
     <message>
@@ -3675,7 +3675,7 @@ Please choose a different file name.</source>
         <translation>Вмъкване</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Изтриване</translation>
     </message>
     <message>
@@ -3803,7 +3803,7 @@ Please choose a different file name.</source>
 <context>
     <name>QSql</name>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Изтриване</translation>
     </message>
     <message>
@@ -3939,7 +3939,7 @@ Please choose a different file name.</source>
         <translation>&amp;Поставяне</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Изтриване</translation>
     </message>
     <message>

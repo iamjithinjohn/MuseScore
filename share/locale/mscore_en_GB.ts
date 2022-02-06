@@ -4785,8 +4785,8 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../mscore/excerptsdialog.ui" line="187"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/excerptsdialog.ui" line="239"/>
@@ -4873,8 +4873,8 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../fluid/fluid_gui.ui" line="135"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../fluid/fluid_gui.ui" line="145"/>
@@ -10217,8 +10217,8 @@ space unit</extracomment>
     </message>
     <message>
         <location filename="../../mscore/layer.ui" line="37"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/layer.ui" line="81"/>
@@ -13118,8 +13118,8 @@ Restore session?</translation>
     </message>
     <message>
         <location filename="../../mscore/workspace.cpp" line="150"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/workspace.cpp" line="155"/>
@@ -13295,8 +13295,8 @@ connection enabled</translation>
     </message>
     <message>
         <location filename="../../mscore/palette.cpp" line="278"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/palette.cpp" line="279"/>
@@ -16175,8 +16175,8 @@ failed: </translation>
     </message>
     <message>
         <location filename="../../mscore/qml/palettes/Palette.qml" line="567"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/qml/palettes/Palette.qml" line="572"/>
@@ -16512,8 +16512,8 @@ failed: </translation>
     </message>
     <message>
         <location filename="../../mscore/pathlistdialog.ui" line="29"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/pathlistdialog.ui" line="36"/>
@@ -21697,8 +21697,8 @@ failed: </translation>
     </message>
     <message>
         <location filename="../../zerberus/zerberus_gui.ui" line="134"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../zerberus/zerberus_gui.ui" line="144"/>
@@ -22949,8 +22949,8 @@ failed: </translation>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1224"/>
         <location filename="../../mscore/shortcut.cpp" line="1225"/>
-        <source>Delete</source>
-        <translation>Delete</translation>
+        <source>Clear Measures</source>
+        <translation>Clear Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1234"/>
@@ -24051,13 +24051,13 @@ failed: </translation>
     </message>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1244"/>
-        <source>Remove Selected Range</source>
-        <translation>Remove Selected Range</translation>
+        <source>Delete Measures</source>
+        <translation>Delete Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1245"/>
-        <source>Remove selected range</source>
-        <translation>Remove selected range</translation>
+        <source>Delete Measures</source>
+        <translation>Delete Measures</translation>
     </message>
     <message>
         <location filename="../../mscore/shortcut.cpp" line="1246"/>

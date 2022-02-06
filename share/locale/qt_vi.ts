@@ -139,7 +139,7 @@ gói libgstreamer-plugins-base đã được cài đặt.</translation>
         <translation>Cập nhật</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Xóa</translation>
     </message>
 </context>
@@ -1930,7 +1930,7 @@ Bạn muốn xóa nó bằng mọi cách?</translation>
         <translation>&amp;Dán vào</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Xóa</translation>
     </message>
     <message>
@@ -3644,7 +3644,7 @@ Vui lòng chọn một tên tập tin khác.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3772,7 +3772,7 @@ Vui lòng chọn một tên tập tin khác.</translation>
 <context>
     <name>QSql</name>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Xóa</translation>
     </message>
     <message>
@@ -3908,7 +3908,7 @@ Vui lòng chọn một tên tập tin khác.</translation>
         <translation>&amp;Dán vào</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Xóa</translation>
     </message>
     <message>

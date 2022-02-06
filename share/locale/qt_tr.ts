@@ -165,7 +165,7 @@ have libgstreamer-plugins-base installed.</source>
         <translation>Güncelle</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Sil</translation>
     </message>
 </context>
@@ -1955,7 +1955,7 @@ Yine de silmek istiyor musunuz?</translation>
         <translation>&amp;Yapıştır</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Sil</translation>
     </message>
     <message>
@@ -3669,7 +3669,7 @@ Lütfen başka bir dosya adı seçin.</translation>
         <translation>Ekle</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Sil</translation>
     </message>
     <message>
@@ -3797,7 +3797,7 @@ Lütfen başka bir dosya adı seçin.</translation>
 <context>
     <name>QSql</name>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Sil</translation>
     </message>
     <message>
@@ -3933,7 +3933,7 @@ Lütfen başka bir dosya adı seçin.</translation>
         <translation>&amp;Yapıştır</translation>
     </message>
     <message>
-        <source>Delete</source>
+        <source>Clear Measures</source>
         <translation>Sil</translation>
     </message>
     <message>
