@@ -36,7 +36,7 @@ MenuItemList NotationContextMenuModel::makeItemsByElementType(ElementType elemen
 {
     switch (elementType) {
     case ElementType::MEASURE:
-        return makeMeasureItems();
+        return makeMeasureItems(elementType);
     case ElementType::PAGE:
         return makePageItems();
     case ElementType::STAFF_TEXT:
@@ -72,16 +72,15 @@ MenuItemList NotationContextMenuModel::makeDefaultCopyPasteItems()
         makeMenuItem("notation-copy"),
         makeMenuItem("notation-paste"),
         makeMenuItem("notation-swap"),
-        makeMenuItem("time-delete"),
-        makeMenuItem("notation-delete"),
+       // makeMenuItem("time-delete"),
     };
 
     return items;
 }
 
-MenuItemList NotationContextMenuModel::makeMeasureItems()
+MenuItemList NotationContextMenuModel::makeMeasureItems(ElementType elementType)
 {
-    MenuItemList items = makeElementItems();
+    MenuItemList items = makeElementItems(elementType);
     items << makeSeparator();
 
     if (isDrumsetStaff()) {
@@ -91,7 +90,10 @@ MenuItemList NotationContextMenuModel::makeMeasureItems()
     items << makeMenuItem("staff-properties");
     items << makeSeparator();
     items << makeMenu(qtrc("notation", "Insert measures"), makeInsertMeasuresItems());
+    items << makeMenuItem("notation-delete");
+    items << makeMenuItem("time-delete");
     items << makeMenuItem("measure-properties");
+    
 
     return items;
 }
@@ -144,11 +146,14 @@ MenuItemList NotationContextMenuModel::makeSelectItems()
     return items;
 }
 
-MenuItemList NotationContextMenuModel::makeElementItems()
+MenuItemList NotationContextMenuModel::makeElementItems(ElementType elementType)
 {
     MenuItemList items = makeDefaultCopyPasteItems();
-
+    if(elementType != ElementType::MEASURE) {
+        items << makeMenuItem("notation-delete1");
+    }
     if (isSingleSelection()) {
+        //items << makeMenuItem("notation-delete1");
         items << makeMenu(qtrc("notation", "Select"), makeSelectItems());
     }
 

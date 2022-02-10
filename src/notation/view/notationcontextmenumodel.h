@@ -43,13 +43,13 @@ private:
 
     uicomponents::MenuItemList makePageItems();
     uicomponents::MenuItemList makeDefaultCopyPasteItems();
-    uicomponents::MenuItemList makeMeasureItems();
+    uicomponents::MenuItemList makeMeasureItems(ElementType elementType);
     uicomponents::MenuItemList makeStaffTextItems();
     uicomponents::MenuItemList makeSystemTextItems();
     uicomponents::MenuItemList makeTimeSignatureItems();
     uicomponents::MenuItemList makeHarmonyItems();
     uicomponents::MenuItemList makeSelectItems();
-    uicomponents::MenuItemList makeElementItems();
+    uicomponents::MenuItemList makeElementItems(ElementType elementType = ElementType::PAGE);
     uicomponents::MenuItemList makeInsertMeasuresItems();
 
     bool isSingleSelection() const;

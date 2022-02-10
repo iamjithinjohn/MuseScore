@@ -188,7 +188,7 @@ MenuItem* AppMenuModel::makeEditMenu()
         makeMenuItem("notation-paste-double"),
         makeMenuItem("notation-swap"),
         makeMenuItem("time-delete"),
-        makeMenuItem("notation-delete"),
+        makeMenuItem("notation-delete1"),
         makeSeparator(),
         makeMenuItem("notation-select-all"),
         makeMenuItem("notation-select-section"),
