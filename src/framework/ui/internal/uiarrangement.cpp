@@ -49,7 +49,7 @@ void UiArrangement::updateData(DataKey key, QJsonObject& obj, Notifications& not
     RetVal<QByteArray> data = workspacesDataProvider()->rawData(key);
     if (!data.ret) {
         LOGD() << "no data: " << key_to_string(key);
-        obj = QJsonObject();
+        obj =  QJsonObject();
         return;
     }
 
