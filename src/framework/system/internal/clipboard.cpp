@@ -35,13 +35,13 @@
 
 #include "systemerrors.h"
 #include "log.h"
-#include "../../../appshell/engravinglibmscore/types.h"
+#include "../../../../engraving/libmscore/textedit.h"
 
 
 using namespace mu;
 using namespace mu::system;
 
-void setText(const Ms::TextEditData &text)
+void setText(const Ms::TextEditData* text)
 {
 #if defined(Q_OS_MAC) || defined(Q_OS_WIN)
     QClipboard::Mode mode = QClipboard::Clipboard;
