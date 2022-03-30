@@ -35,18 +35,17 @@
 
 #include "systemerrors.h"
 #include "log.h"
-#include "../../../../engraving/libmscore/textedit.h"
 
 
 using namespace mu;
 using namespace mu::system;
 
-void setText(const Ms::TextEditData* text)
+void setText(const QString& text)
 {
 #if defined(Q_OS_MAC) || defined(Q_OS_WIN)
     QClipboard::Mode mode = QClipboard::Clipboard;
 #else
     QClipboard::Mode mode = QClipboard::Selection;
 #endif
-    QApplication::clipboard()->setText(text->selectedText, mode);
+    QApplication::clipboard()->setText(text, mode);
 }
