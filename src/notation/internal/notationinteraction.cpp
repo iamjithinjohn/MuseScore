@@ -3101,7 +3101,7 @@ void NotationInteraction::copySelection()
         m_editData.element->editCopy(m_editData);
         Ms::TextEditData* ted = static_cast<Ms::TextEditData*>(m_editData.getData(m_editData.element).get());
         if (!ted->selectedText.isEmpty()) {
-            QGuiApplication::clipboard()->setText(ted->selectedText, QClipboard::Clipboard);
+            IClipboard::clipboard()->setText(ted->selectedText, QClipboard::Clipboard);
         }
     } else {
         QMimeData* mimeData = selection()->mimeData();

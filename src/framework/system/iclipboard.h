@@ -27,8 +27,10 @@
 #include "retval.h"
 #include "io/path.h"
 
-namespace mu::framework {
-class IClipboard {
+namespace mu::system {
+class IClipboard : MODULE_EXPORT_INTERFACE
+{
+    INTERFACE_ID(IClipboard)
 public:
     virtual void setText(const QString& text) = 0;
     virtual QString text() const = 0;

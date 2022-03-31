@@ -48,6 +48,7 @@ class NotationInteraction : public INotationInteraction, public async::Asyncable
 {
     INJECT(notation, INotationConfiguration, configuration)
     INJECT(notation, ISelectInstrumentsScenario, selectInstrumentScenario)
+    INJECT(notation, IClipboard, clipboard)
 
 public:
     NotationInteraction(Notation* notation, INotationUndoStackPtr undoStack);
