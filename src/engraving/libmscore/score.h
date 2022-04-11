@@ -282,6 +282,7 @@ public:
 
     bool _excerptsChanged     { false };
     bool _instrumentsChanged  { false };
+    bool _lyricsChanged { false };
 
     void reset();
     UpdateMode updateMode() const { return _updateMode; }
@@ -782,6 +783,7 @@ public:
     virtual void addLayoutFlags(LayoutFlags);
     virtual void setInstrumentsChanged(bool);
     void addRefresh(const mu::RectF&);
+    //virtual void setLyricsChanged(bool);
 
     void cmdToggleAutoplace(bool all);
 
@@ -1191,7 +1193,7 @@ public:
     bool hasHarmonies();
     int  lyricCount();
     int  harmonyCount();
-    QString extractLyrics();
+    QString extractLyrics(); // bool plaintext = true, bool expandRepeats = true);
     int keysig();
     int duration();
     int durationWithoutRepeats();

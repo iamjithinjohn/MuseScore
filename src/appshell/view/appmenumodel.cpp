@@ -189,6 +189,7 @@ MenuItem* AppMenuModel::makeViewMenu()
         makeMenuItem("toggle-palettes"),
         makeMenuItem("masterpalette"),
         makeMenuItem("toggle-instruments"),
+        makeMenuItem("toggle-lyrics"),
         makeMenuItem("inspector"),
         makeMenuItem("toggle-selection-filter"),
         makeMenuItem("toggle-navigator"),

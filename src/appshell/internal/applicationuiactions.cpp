@@ -116,6 +116,12 @@ const UiActionList ApplicationUiActions::m_actions = {
              QT_TRANSLATE_NOOP("action", "Toggle 'Instruments'"),
              Checkable::Yes
              ),
+    UiAction("toggle-lyrics",
+             mu::context::UiCtxNotationOpened,
+             QT_TRANSLATE_NOOP("action", "Lyrics"),
+             QT_TRANSLATE_NOOP("action", "Toggle 'Lyrics Editor'"),
+             Checkable::Yes
+             ),
     UiAction("inspector",
              mu::context::UiCtxNotationOpened,
              QT_TRANSLATE_NOOP("action", "Properties"),
@@ -272,6 +278,7 @@ const QMap<mu::actions::ActionCode, DockName>& ApplicationUiActions::toggleDockA
 
         { "toggle-palettes", PALETTES_PANEL_NAME },
         { "toggle-instruments", INSTRUMENTS_PANEL_NAME },
+        { "toggle-lyrics", LYRICS_PANEL_NAME },
         { "inspector", INSPECTOR_PANEL_NAME },
         { "toggle-selection-filter", SELECTION_FILTERS_PANEL_NAME },
 

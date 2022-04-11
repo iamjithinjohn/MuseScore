@@ -31,6 +31,7 @@ using DockName = QString;
 // Panels:
 static const DockName PALETTES_PANEL_NAME("palettesPanel");
 static const DockName INSTRUMENTS_PANEL_NAME("instrumentsPanel");
+static const DockName LYRICS_PANEL_NAME("lyricsPanel");
 static const DockName INSPECTOR_PANEL_NAME("inspectorPanel");
 static const DockName SELECTION_FILTERS_PANEL_NAME("selectionFiltersPanel");
 

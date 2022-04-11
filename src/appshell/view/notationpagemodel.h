@@ -58,6 +58,7 @@ public:
 
     Q_INVOKABLE QString palettesPanelName() const;
     Q_INVOKABLE QString instrumentsPanelName() const;
+    Q_INVOKABLE QString lyricsPanelName() const;
     Q_INVOKABLE QString inspectorPanelName() const;
     Q_INVOKABLE QString selectionFiltersPanelName() const;
 

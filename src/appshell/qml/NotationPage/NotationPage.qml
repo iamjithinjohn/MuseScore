@@ -279,6 +279,38 @@ DockPage {
         },
 
         DockPanel {
+            id: lyricsPanel
+            objectName: lyricsPanel.inspectorPanelName()
+
+            title: qsTrc("appshell", "Lyrics Editor")
+            navigationSection: root.navigationPanelSec(inspectorPanel.location)
+
+
+            width: root.verticalPanelDefaultWidth
+            minimumWidth: root.verticalPanelDefaultWidth
+            maximumWidth: root.verticalPanelDefaultWidth
+            visible: true
+
+            //color: notationPage.color
+            //borderColor: notationPage.borderColor
+            tabifyPanel: selectionFilterPanel
+            dropDestinations: root.verticalPanelDropDestinations
+
+            //tabifyObjectName: "inspectorPanel"
+
+            //floatable: true
+            //closable: true
+
+            // onClosed: {
+            //     notationPage.pageModel.isLyricsPanelVisible = false
+            // }
+            /*  RIGHT HERE */
+            LyricsEditor {
+                anchors.fill: parent
+            }
+        },
+        
+        DockPanel {
             id: selectionFilterPanel
 
             objectName: pageModel.selectionFiltersPanelName()

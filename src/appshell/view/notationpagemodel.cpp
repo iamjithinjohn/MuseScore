@@ -87,6 +87,11 @@ QString NotationPageModel::instrumentsPanelName() const
     return INSTRUMENTS_PANEL_NAME;
 }
 
+QString NotationPageModel::lyricsPanelName() const
+{
+    return LYRICS_PANEL_NAME;
+}
+
 QString NotationPageModel::inspectorPanelName() const
 {
     return INSPECTOR_PANEL_NAME;
